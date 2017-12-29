@@ -1,0 +1,9 @@
+ID	Name	Float
+1	Name1	1.01
+2	Name2	1.02
+3	Name3	1.03
+4	Name4	1.04
+5	Name5	1
+		
+6	Name1	1.06
+		
