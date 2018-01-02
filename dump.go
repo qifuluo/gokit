@@ -7,9 +7,7 @@ import (
 )
 
 type variable struct {
-	// Output dump string
-	Out string
-	// Indent counter
+	Out    string
 	indent int64
 }
 
